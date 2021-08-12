@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Connect with me
+
 ## Technologies & Tools
 ![react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
