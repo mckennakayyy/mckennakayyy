@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ## Technologies & Tools
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white
+![react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
